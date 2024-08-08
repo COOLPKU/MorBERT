@@ -2,7 +2,7 @@
 Data for the paper "Disambiguate Words like Composing Them: A Morphology-Informed Approach to Enhance Chinese Word Sense Disambiguation" in ACL 2024
 
 # General description
-Our resources of Chinese WSD include two lexico-semantic inventories (morpheme inventory **MorInv** and word inventory **WrdInv**), a Chinese WSD dataset (**M**orphology-**i**nformed **C**hinese **L**exical **S**ample dataset, **MiCLS**), and an out-of-vocabulary (**OOV**) test set. These constitute the largest and publicly available Chinese WSD resource so far as we know.
+Our resources of Chinese WSD include two lexico-semantic inventories: morpheme inventory (**MorInv**) and word inventory (**WrdInv**), a Chinese WSD dataset (**M**orphology-**i**nformed **C**hinese **L**exical **S**ample dataset, **MiCLS**), and an out-of-vocabulary (**OOV**) test set. These constitute the largest and publicly available Chinese WSD resource so far as we know.
 
 Considering the demands of research, the data for our resources originates from the authoritative Chinese Contemporary Dictionary (CCD). To respect intellectual property rights and to better cater to computational applications, we have condensed the relevant semantic space to some extent, as well as largely revised and optimized the morpheme definitions and word definitions.
 
