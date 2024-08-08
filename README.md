@@ -20,10 +20,11 @@ These sampled resources are uploaded to `data/`. The file structure is as follow
 - `data/`: data files
   - `MorInv.txt`: Data for the morpheme inventory
   - `WrdInv.txt`: Data for the word inventory
-  - `train.tsv`: the training set of MiCLS
   - `val.tsv`: the valid set of MiCLS
   - `test.tsv`: the test set of MiCLS
   - `OOV.tsv`: the OOV test set
+
+Due to the restriction of file size, the training set of MiCLS is available at [this link](https://pan.baidu.com/s/1a_5-4sopnjKOu95rLodtxQ). password: vyd4
 
 # Data format
 
