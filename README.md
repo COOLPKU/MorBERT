@@ -1,5 +1,5 @@
 # MorBERT
-Data and code for the paper "Disambiguate Words like Composing Them: A Morphology-Informed Approach to Enhance Chinese Word Sense Disambiguation" in ACL 2024
+Data for the paper "Disambiguate Words like Composing Them: A Morphology-Informed Approach to Enhance Chinese Word Sense Disambiguation" in ACL 2024
 
 # General description
 Our resources of Chinese WSD include two lexico-semantic inventories (morpheme inventory **MorInv** and word inventory **WrdInv**), a Chinese WSD dataset (**M**orphology-**i**nformed **C**hinese **L**exical **S**ample dataset, **MiCLS**), and an out-of-vocabulary (**OOV**) test set. These constitute the largest and publicly available Chinese WSD resource so far as we know.
@@ -24,7 +24,7 @@ These sampled resources are uploaded to `data/`. The file structure is as follow
   - `test.tsv`: the test set of MiCLS
   - `OOV.tsv`: the OOV test set
 
-Due to the restriction of file size, the training set of MiCLS is available at [this link](https://pan.baidu.com/s/1a_5-4sopnjKOu95rLodtxQ). password: vyd4
+Due to the restriction of file size, the training set of MiCLS is uploaded to [this link](https://pan.baidu.com/s/1a_5-4sopnjKOu95rLodtxQ). (password: vyd4)
 
 # Data format
 
