@@ -4,12 +4,12 @@ Data for the paper "Disambiguate Words like Composing Them: A Morphology-Informe
 # General description
 Our resources of Chinese WSD include two lexico-semantic inventories (morpheme inventory **MorInv** and word inventory **WrdInv**), a Chinese WSD dataset (**M**orphology-**i**nformed **C**hinese **L**exical **S**ample dataset, **MiCLS**), and an out-of-vocabulary (**OOV**) test set. These constitute the largest and publicly available Chinese WSD resource so far as we know.
 
-Considering the demands of research, the data for our resources originates from the authoritative Chinese Contemporary Dictionary (CCD). To respect intellectual property rights and to better cater to computational applications, we have condensed the relevant semantic space to some extent, as well as largely revised and optimized the morpheme definitions.
+Considering the demands of research, the data for our resources originates from the authoritative Chinese Contemporary Dictionary (CCD). To respect intellectual property rights and to better cater to computational applications, we have condensed the relevant semantic space to some extent, as well as largely revised and optimized the morpheme definitions and word definitions.
 
 Here we have open-sourced a subset of this resource, encompassing 7,930 commonly used morphemes from the most frequently used 3,000 characters in Chinese. This includes:
 
 - 7,930 entries from MorInv, covering 7,930 morphemes for 3,000 characters;
-- 41,373 entries from WrdInv, covering 41,678 senses for 32,213 words;
+- 41,678 entries from WrdInv, covering 41,678 senses for 32,213 words;
 - 143,361 entries from MiCLS, covering 38,671 senses for 32,213 words;
 - Full dataset of the OOV test set, which contains 173 entries, covering 148 OOV senses for 147 words.
 
