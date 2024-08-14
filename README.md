@@ -26,7 +26,7 @@ These sampled resources are uploaded to `data/`. The file structure is as follow
   - `test.tsv`: the test set of MiCLS
   - `OOV.tsv`: the OOV test set
 
-Due to the restriction of file size, the training set of MiCLS is uploaded to [this link]([https://pan.baidu.com/s/1oIcHmCYS87pac3F1ffWyqw?pwd=vyd4]). (password: vyd4)
+Due to the restriction of file size, the training set of MiCLS is uploaded to [this link](https://pan.baidu.com/s/1oIcHmCYS87pac3F1ffWyqw?pwd=vyd4). (password: vyd4)
 
 # Data format
 
