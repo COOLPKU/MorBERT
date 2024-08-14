@@ -11,8 +11,8 @@ Considering the demands of research, the data for our resources originates from 
 Here we have open-sourced a subset of this resource, encompassing 7,930 commonly used morphemes from the most frequently used 3,000 characters in Chinese. This includes:
 
 - 7,930 entries from MorInv, covering 7,930 morphemes for 3,000 characters;
-- 20,509 entries from WrdInv, covering 20,509 senses for 15,000 words;
-- 80,078 entries from MiCLS, covering 18,844 senses for 15,000 words;
+- 20,492 entries from WrdInv, covering 20,492 senses for 15,000 words;
+- 80,089 entries from MiCLS, covering 18,832 senses for 15,000 words;
 - Full dataset of the OOV test set, which contains 173 entries, covering 148 OOV senses for 147 words.
 
 As a result, the experimental results in the paper may be slightly affected during replication.
@@ -26,7 +26,7 @@ These sampled resources are uploaded to `data/`. The file structure is as follow
   - `test.tsv`: the test set of MiCLS
   - `OOV.tsv`: the OOV test set
 
-Due to the restriction of file size, the training set of MiCLS is uploaded to [this link](https://pan.baidu.com/s/1oIcHmCYS87pac3F1ffWyqw?pwd=vyd4). (password: vyd4)
+Due to the restriction of file size, the training set of MiCLS is uploaded to [this link](https://pan.baidu.com/s/1Uw63Bo10fn7jeef8tUThiw?pwd=rxe6). (password: rxe6)
 
 # Data format
 
